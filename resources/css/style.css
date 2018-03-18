@@ -1,0 +1,38 @@
+* {
+  background: black;
+  text-align: center;
+  font-family: verdana;
+}
+
+
+h1 {
+
+font-weight: bold;
+font-size: 50px;
+color: white;
+text-align: center;
+}
+
+h2 {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42;
+  color: white;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#gray_par {
+  color: gray;
+  font-family: verdana;
+  font-size: 21px;
+
+}
+
+footer {
+  text-align: right;
+  color: gray;
+}
